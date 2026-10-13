@@ -1,0 +1,575 @@
+                                  Systèmes Optiques
+                                      et images
+
+
+                              Karim Masmoudi & Anowar Tozri
+                                                         mirak.masmoudi@gmail.com
+                                                                anowar2@gmail.com
+
+                                                                                    1
+
+
+
+
+                        PLAN
+
+
+                        Systèmes Optiques
+
+
+
+
+K. Masmoudi & A.Tozri
+                        Stigmatisme rigoureux
+
+                        Stigmatisme Approché
+
+
+
+
+                                                                                    2
+                                            OPTIQUE 2026/2027
+
+
+
+
+                                                                                        1
+                        Systèmes Optiques
+
+                        Un    système     optique      (SO)    un    ensemble      de      surfaces   qui
+                        réfléchissent    (miroirs)     ou     réfractent      (dioptres)    les   rayons
+                        lumineux.
+
+
+
+
+K. Masmoudi & A.Tozri
+                        On distingue :
+                         - Système Catoptrique : Système optique ne possédant que
+                             des surfaces réfléchissantes.
+                         - Systèmes Dioptriques : Système optique ne possédant que
+                             des surfaces réfractantes (exemple des dioptres : lentilles,
+                             objectifs, lunettes, microscopes).
+                         - Systèmes Catadioptriques : Système optique possédant des
+                             surfaces    réfléchissantes        et    des     surfaces      réfractantes
+                             (Comportent des dioptres et des miroirs : télescopes).
+                        Le rôle d’un système optique est de donner des images les plus
+                        fidèles possibles de l’objet.                                                 3
+                                                       OPTIQUE 2026/2027
+
+
+
+
+                        Systèmes Optiques
+
+                        Un système optique est dit centré lorsqu’il possède un axe de
+                        symétrie de révolution ∆ Définissant ainsi l’axe optique du
+
+
+
+
+K. Masmoudi & A.Tozri
+                        système.
+
+
+
+
+                        Exemples : les miroirs sphériques et les lentilles minces
+                        Exemples : Les dioptres et les miroirs possèdent un plan tangent
+                        perpendiculaire    à   l’axe     optique.     C’est    pourquoi     les   rayons
+                        lumineux qui sont suivant ∆ ne sont pas déviés (loi de Snell-
+                        Descartes).
+                                                                                                      4
+                                                       OPTIQUE 2026/2027
+
+
+
+
+                                                                                                            2
+                          Systèmes Optiques
+
+                           Espace Réel et Espace Virtuel : Cas d’un système dioptrique
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                                                                                              5
+                                                      OPTIQUE 2026/2027
+
+
+
+
+                          Systèmes Optiques
+
+                           Espace Réel et Espace Virtuel : Cas d’un système dioptrique
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+                        - Si les rayons divergent du point objet A, l’objet est dit réel
+                        - Si les rayons convergent au point objet A, l’objet est dit virtuel
+                        - Si les rayons convergent au point image A’, l’image est dite réelle
+                        - Si les rayons divergent au point image A’, l’image est dite virtuelle
+                                                                                              6
+                                                      OPTIQUE 2026/2027
+
+
+
+
+                                                                                                  3
+                        Systèmes Optiques
+
+                        Espace Réel et Espace Virtuel : Cas d’un système catadioptrique
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                                                                                          7
+                                                  OPTIQUE 2026/2027
+
+
+
+
+                        Stigmatisme rigoureux
+
+                        Un système optique SO est rigoureusement stigmatique pour un
+                        couple de point (A,A’) si tout rayon passant par A avant la
+                        traversée de SO, sort su système en passant par A’
+
+
+
+
+K. Masmoudi & A.Tozri
+                         Le système optique SO donne de l’objet ponctuel A une image
+                        ponctuelle A’
+
+
+
+
+                        Les points A et A’ sont alors des points conjugués et la relation qui
+                        lie leurs positions est appelée relation de conjugaison
+                        Un système optique SO est rigoureusement stigmatique pour le
+                        couple de points (A,A’) si et seulement si le chemin optique entre
+                        les deux points A et A’ est constant : [AA’]=Cte                  8
+                                                  OPTIQUE 2026/2027
+
+
+
+
+                                                                                                4
+                        Stigmatisme rigoureux
+
+                        Un système optique SO est dit Aplanétique si pour tout petit objet
+                        AB plan et perpendiculaire à l’axe optique à une image plane et
+                        perpendiculaire à l’axe optique : Aplanétisme rigoureux
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                        A part le miroir plan il n’existe pas de système optique SO
+                        rigoureusement stigmatique pour tout point.
+
+                                                                                         9
+                                                 OPTIQUE 2026/2027
+
+
+
+
+                        Stigmatisme rigoureux
+
+                        Le stigmatisme est lié à la netteté d’une image ; l’image d’un
+                        objet par un miroir est toujours nette.
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                                                                                       10
+                                                 OPTIQUE 2026/2027
+
+
+
+
+                                                                                             5
+                         Stigmatisme rigoureux
+
+                          Le stigmatisme est lié à la netteté d’une image ; l’image d’un
+                          objet par un miroir est toujours nette.
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                                                                                                11
+                                                       OPTIQUE 2026/2027
+
+
+
+
+                         Stigmatisme rigoureux
+
+                          Il est possible de trouver la forme que doit avoir un système
+                          optique pour conjuguer deux points particuliers.
+                          Le miroir sphérique est rigoureusement stigmatique pour deux
+
+
+
+
+K. Masmoudi & A.Tozri
+                          points : au centre et la surface du miroir sphérique
+
+
+
+
+                                                               le miroir sphérique est astigmatique
+                         Stigmatisme rigoureux au centre
+                        et à la surface du miroir sphérique
+                                                                                                12
+                                                       OPTIQUE 2026/2027
+
+
+
+
+                                                                                                      6
+                        Stigmatisme rigoureux
+
+                        Le miroir convexe (ou concave) est rigoureusement stigmatique
+                        pour deux points C (centre) et S (objet placé en C ou S)
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                                                                                    13
+                                                OPTIQUE 2026/2027
+
+
+
+
+                        Stigmatisme rigoureux
+
+                        Le dioptre sphérique est astigmatique.
+                        Le dioptre sphérique est rigoureusement stigmatique pour
+                        deux points : au centre et la surface du dioptre sphérique
+
+
+
+
+K. Masmoudi & A.Tozri
+                        Le dioptre sphérique est rigoureusement stigmatique pour deux
+                        points de " Weïerstrass "
+
+
+
+
+                                                                                    14
+                                                OPTIQUE 2026/2027
+
+
+
+
+                                                                                         7
+                        Stigmatisme rigoureux
+
+                        Le miroir parabolique est rigoureusement stigmatique pour deux
+                        points : le foyer (objet et image) et le point à l’infini sur l’axe
+                        Le miroir elliptique est rigoureusement stigmatique pour les deux
+
+
+
+
+K. Masmoudi & A.Tozri
+                        foyers (objet et image)
+
+
+
+
+                                                                                         15
+                                                  OPTIQUE 2026/2027
+
+
+
+
+                        Stigmatisme Approché
+
+                        De nombreux systèmes optiques ne présentent pas la condition de
+                        stigmatisme rigoureux. Les rayons issus de point A et émergent du
+                        système optique ne passent pas tous par le point A’ de sorte que
+
+
+
+
+K. Masmoudi & A.Tozri
+                        l’image n’est pas ponctuelle : système optique est astigmate
+
+
+
+
+                         On établit cependant la condition de stigmatisme approché
+                        lorsque les rayons lumineux issus du point A passent au voisinage
+                        du point A’
+                                                                                         16
+                                                  OPTIQUE 2026/2027
+
+
+
+
+                                                                                              8
+                          Stigmatisme Approché
+
+                           Cas d’un dioptre plan :
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                                                                                          17
+                                                     OPTIQUE 2026/2027
+
+
+
+
+                          Stigmatisme Approché
+
+                           Cas d’un dioptre plan :
+
+
+
+
+K. Masmoudi & A.Tozri
+                                  On constate que la position de A ' dépend de l’angle i1 donc
+                        du rayon lumineux issu de A . Tous les rayons lumineux ne convergent
+                        pas en un point unique (on a une tache ). Il n’y a pas stigmatisme
+
+
+
+
+                                                                                          18
+                                                     OPTIQUE 2026/2027
+
+
+
+
+                                                                                                 9
+                        Stigmatisme Approché
+
+                         Cas d’un dioptre plan :
+                        - Le SO (ici le dioptre) ne fournit pas une image ponctuelle de
+                          l’objet ponctuel, l’image n’est pas nette, on a une tache. On dit
+                          qu’il y a des ABERRATIONS GEOMETRIQUES
+
+
+
+
+K. Masmoudi & A.Tozri
+                        - On peut résumer la situation par le diagramme suivant :
+                                                            SO
+                                        Objet ponctuel             Tache
+                        - Comment faire pour que la tache devienne plus « ponctuelle » ?
+                        - On ne va considérer que les rayons peu inclinés par rapport à l’axe
+                          optique. Dans ces conditions :
+
+
+
+
+                        - La position de l’image A ' est indépendante des rayons qui partent
+                          de l’objet A .
+                        - Tous les rayons lumineux faiblement inclinés par rapport à l’axe
+                          optique semblent provenir d’une seule image ponctuelle         19
+
+                          (virtuelle).              OPTIQUE 2026/2027
+
+
+
+
+                        Stigmatisme Approché
+
+                         Cas d’un dioptre plan :
+                        - Tous les rayons lumineux faiblement inclinés par rapport à l’axe
+                          optique semblent provenir d’une seule image ponctuelle
+                          (virtuelle). On parle de STIGMATISME APPROCHE
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                        - On constate que l’image A ' se trouve plus près du dioptre que
+                          l’objet A                                                  20
+                                                   OPTIQUE 2026/2027
+
+
+
+
+                                                                                                10
+                         Stigmatisme Approché
+
+                          Cas d’un dioptre plan :
+                            Quand on regarde un poisson dans une rivière, on voit son
+                        image et le poisson nous semble plus proche qu’il n’est en réalité
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                                                                                      21
+                                                  OPTIQUE 2026/2027
+
+
+
+
+                         Stigmatisme Approché
+
+                          Approximation de Gauss :
+                        - Le stigmatisme approché lorsque la dimension de la «tache image»
+                          reste assez petite pour être considérée comme ponctuelle par le
+
+
+
+
+K. Masmoudi & A.Tozri
+                          récepteur (oeil, appareil photo, caméra…)
+                        - On va donc se placer dans des conditions particulières, dites
+                          conditions (ou approximation) de Gauss, pour considérer les SO
+                          comme quasi stigmatiques.
+
+
+
+
+                                                                                      22
+                                                  OPTIQUE 2026/2027
+
+
+
+
+                                                                                             11
+                         Stigmatisme Approché
+
+                         Approximation de Gauss :
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+                                tan(i) ≈ sin(i) ≈ i              et       d << AA’
+                                tan(i’) ≈ sin(i’) ≈ i’           et       d’ << AA’
+
+                                                                                           23
+                                                      OPTIQUE 2026/2027
+
+
+
+
+                         Stigmatisme Approché
+
+                          Réalisation des conditions de Gauss :
+                        - Il faut que le système optique possède un diaphragme d’entrée
+                          limitant l’inclinaison des rayons, dans ce cas sin(α) ≈ tan(α) ≈ α .
+
+
+
+
+K. Masmoudi & A.Tozri
+                        - Mais si le diaphragme est trop petit, l’image est peu lumineuse (la
+                          quantité de lumière qui rentre dans le S.O est faible) et on voit
+                          apparaître le phénomène de diffraction (il faut trouver le bon
+                          compromis)
+
+
+
+
+                                                                                           24
+                                                      OPTIQUE 2026/2027
+
+
+
+
+                                                                                                 12
+                         Stigmatisme Approché
+
+                          Cas d’un miroir sphérique :
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                        Stigmatisme approché au voisinage              Stigmatisme approché dans les
+                           du centre d’un miroir sphérique                  conditions de Gauss
+
+                                                                                                       25
+                                                        OPTIQUE 2026/2027
+
+
+
+
+                         Stigmatisme Approché
+
+                          Cas d’un dioptre sphérique :
+
+
+
+
+K. Masmoudi & A.Tozri
+
+
+
+
+                        Stigmatisme approché au voisinage              Stigmatisme approché dans les
+                           du centre d’un dioptre sphérique                 conditions de Gauss
+
+                                                                                                       26
+                                                        OPTIQUE 2026/2027
+
+
+
+
+                                                                                                            13
+

@@ -1,0 +1,199 @@
+Institut Supérieur d'Informatique et de Multimédia de Sfax                                      TP2                              1ére Année PIIM 2026/2027
+                                     Enseignants Cours : Mr Tozri Anwar
+                                     Enseignants TPs : Mr Masmoudi Karim & Mr Tozri Anwar & Melle Krichen Marwa
+
+                                                                            TP2
+                                                 Vision et Couleurs
+Objectifs :
+       Le but de ce TP est :
+          ► Analyser la lumière blanche.
+          ► Savoir utiliser les synthèses additives et soustractives.
+          ►Interpréter la couleur d’un objet à partir de celle de la lumière incidente.
+          ►Analyser différentes applications.
+
+1/ La lumière blanche :
+   1-1/ Décomposition de la lumière blanche :
+        Isaac Newton (1643-1727) décomposa pour la première foisla lumière du Soleil grâce à un
+   prisme optique. Il prouvaainsi que la lumière blanche comporte toutes les couleurs du spectre visible.
+
+
+
+
+     • Comment nomme-t-on ce phénomène physique ?
+     ..................................................................................................................................................................
+     • De quoi est composée la lumière blanche ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     • La couleur noire existe-t-elle ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     • Pourquoi qualifie-t-on la lumière blanche de lumière polychromatique et le laser de lumière
+       monochromatique ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     • Comment est-il alors possible pour l’homme de voir une couleur autre que le bleu, le vert ou le rouge ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+   1-2/ Recomposition de la lumière blanche :
+        Le disque de Newton est constitué de secteurs colorés aux "sept couleurs de l'arc en ciel"
+     • Qu'observe-t-on lorsque le disque est mis en rotation rapide ? Propose une explication
+      .......................................................................................................................
+      .......................................................................................................................
+     • On recommence l'expérience précédente en utilisant un disque constitué de
+     secteurs colorés de trois couleurs seulement : rouge, bleu et vert. Décris ce que
+     tu observes et conclue
+      .......................................................................................................................
+      .......................................................................................................................
+
+ _____________________________________________________________________________________
+Travaux Pratiques Optique                 1                                A.U 2026/2027
+Institut Supérieur d'Informatique et de Multimédia de Sfax                                      TP2                              1ére Année PIIM 2026/2027
+2/ Synthèse additive des couleurs:
+      Le physicien Thomas Young (1773-1829) démontra pour la première fois que l’on peut
+ recomposer la lumière blanche avec trois couleurs appelées couleurs primaires lumières :
+                                                                      Rouge, Vert, Bleu
+       Le principe de la synthèse additive des couleurs consiste à combiner la lumière deplusieurs
+   sources émettrices colorées afin d'obtenir une nouvelle couleur.
+
+   2-1/ Formation de lumière colorées :
+                Vous disposez de trois spots de lumière (Rouge,Vert, Bleu) dans l’applet FLASH « Synthèse
+       Additive ».
+     •Amener l’intensité des 3 faisceaux lumineux sur 100%. Compléter les synthèses additives
+       suivantes :
+         ROUGE + VERT = ……………………
+         BLEU + ROUGE = ……………………
+         VERT + BLEU = ……………………
+         CYAN + ROUGE = ……………………
+         JAUNE + BLEU = ……………………
+         MAGENTA + VERT = ……………………
+         ROUGE + VERT + BLEU = ……………………
+     •Comment à partir de cette technique de synthèse des couleurs pourrait-on obtenir une « infinité de
+       couleurs » ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     •Amener l’intensité des 3 faisceaux lumineux sur 100%. Recommencer en fixant les trois intensités
+       sur 70% puis sur 30%. Dans tous les cas, de quelle couleur est la lumière centrale ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     •Que se passe-t-il pour la lumière centrale si les trois intensités ne sont pas égales ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     •Deux couleurs sont complémentaires l'une de l'autre si, par synthèse additive, elles forment de la
+       lumière blanche. Indique les couleurs complémentaires pour chacune des couleurs primaires :
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+   2-1/ Application : le codage RVB :
+          Pour restituer toutes les couleurs d’une image sur un écran on utilise la synthèse additive des
+     couleurs avec les trois couleurs primaires lumières. L'écran est entièrement composé d'une matrice de
+     pixels dont le nombre constitue sa résolution ou définition. Lors de l’affichage d’une image couleur
+     sur un écran, ce dernier allume totalement ou partiellement chaque cellule (ou sous-pixel) d’un pixel,
+     et ceci pour tous les pixels présents sur l’écran. Chaque cellule de l'écran reçoit donc une information
+     dédiée.
+
+
+
+
+ _____________________________________________________________________________________
+Travaux Pratiques Optique                 2                                A.U 2026/2027
+Institut Supérieur d'Informatique et de Multimédia de Sfax                                      TP2                              1ére Année PIIM 2026/2027
+
+
+
+
+     •Quelle est la couleur observée sur un écran si tous les pixels qui le composent sont identiques au
+       pixel A ?
+     ..................................................................................................................................................................
+     •Même question pour les pixels B, C, D, E et F.
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     •Comment l’écran LCD restitue –t-il toutes les couleurs ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+     •On affiche la même image sur deux écrans différents (voir figures ci-dessous).
+
+
+
+
+     Quelle est la caractéristique qui différencie ces écrans ?
+     ..................................................................................................................................................................
+     ..................................................................................................................................................................
+
+3/ Synthèse soustractive des couleurs :
+       • La synthèse soustractive est l’obtention de n’importe quelle couleur à partir de l’absorption des
+         couleurs composant le blanc.
+       • A partir de trois filtres cyan, magenta et jaune on obtient toutes les couleurs.
+       • En superposant les trois filtres correspondant aux trois couleurs primaires de synthèse soustractive
+         on obtient le noir. Le noir correspond à l’absence de couleur.
+       Deux couleurs sont dites complémentaires si leur synthèse soustractive donne du noir.
+       • La complémentaire d'une couleur primaire est une couleur secondaire (Exemple : Filtre jaune +
+         Filtre Bleu = Noir)
+   3-1/ Couleur d'un objet :
+       Lorsque la lumière rencontre un objet matériel, elle peut selon sa longueur d'onde λ, c'est à dire
+ sa couleur pour la lumière visible :
+       • être diffusée, c'est à dire renvoyée dans toutes les directions de l'espace
+       • être absorbée et transformée en chaleur
+       • être transmise, c'est à dire traverser l'objet (Filtre)
+       Dans cette partie, nous allons utiliser l’applet FLASH « Couleur d'un objet »
+ pour réaliser expériences virtuelles par simulation.
+   • Éclairer en lumière blanche un objet de couleur verte.
+         -Quelle(s) couleur(s) est(sont) absorbée(s) par cet objet ?
+         ..................................................................................................
+         - Quelle(s) couleur(s) est(sont) diffusée(s) par cet objet ?
+         ..................................................................................................
+   • Éclairer en lumière blanche un objet de couleur Noir.
+         - Quelle(s) couleur(s) est(sont) absorbée(s) par cet objet ?
+         ..................................................................................................
+         - Quelle(s) couleur(s) est(sont) diffusée(s) par cet objet ?
+         ..................................................................................................
+ _____________________________________________________________________________________
+Travaux Pratiques Optique                 3                                A.U 2026/2027
+Institut Supérieur d'Informatique et de Multimédia de Sfax                                      TP2                               1ére Année PIIM 2026/2027
+     •Éclairé en lumière blanche un objet de couleur Blanc.
+           - Quelle(s) couleur(s) est(sont) absorbée(s) par cet objet ?
+            ...........................................................................................................................................................
+           - Quelle(s) couleur(s) est(sont) diffusée(s) par cet objet ?
+            ...........................................................................................................................................................
+     •Donner l’apparence un objet de couleur Cyan éclairé en lumière rouge (Filtre rouge).
+       ................................................................................................................................................................
+     • Donner l’apparence un objet de couleur jaune éclairé en lumière verte (Filtre vert).
+       ................................................................................................................................................................
+     • Donner l’apparence un objet de couleur Magenta éclairé en lumière bleu (Filtre bleu).
+       ................................................................................................................................................................
+     • Compléter le tableau suivant :
+
+                   Lumière                              Rouge           Vert              Bleu             Jaune            Cyan              Magenta
+               Couleur de l’objet                       Cyan           Magenta            Jaune            Cyan            Magenta             Jaune
+              Apparence de l’objet
+
+       Conclusion : ...........................................................................................................................................
+       ................................................................................................................................................................
+       ................................................................................................................................................................
+       ................................................................................................................................................................
+
+   3-2/ Application : Imprimante à jet d’encre
+       Lorsqu'une imprimante mélange deux couleurs différentes, chacune d'entre elles absorbe des
+   couleurs et les soustrait à la lumière qui l'éclaire. Le mélange absorbe donc à la fois les couleurs
+   absorbées par la première couleur et celles absorbées par la deuxième.
+
+
+
+
+                                                               Restitution des couleurs en imprimante
+
+   •Quelles sont les couleurs absorbées par l’encre jaune ?
+   .....................................................................................................................................................................
+   • Quelles sont les couleurs absorbées par l’encre Magenta ?
+   .....................................................................................................................................................................
+   • Quelles sont les couleurs absorbées par un mélange d’encre Magenta et jaune ?
+   .....................................................................................................................................................................
+   • Quelle est la couleur de ce mélange éclairé en lumière blanche ?
+   .....................................................................................................................................................................
+   • Quelle est sa couleur si on l'éclaire en lumière bleue ?
+   .....................................................................................................................................................................
+   • Quelle est la couleur d'un mélange d’encre cyan, jaune et magenta ?
+   .....................................................................................................................................................................
+
+
+ _____________________________________________________________________________________
+Travaux Pratiques Optique                 4                                A.U 2026/2027
+
